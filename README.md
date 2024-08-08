@@ -9,20 +9,6 @@
   <img src="https://github.com/user-attachments/assets/48a314ea-07e1-4a94-b072-f8089275bee2" alt="MyAvatar" width="200" style="border-radius: 50%;"/>
 </p>
 
-<div align="center">
-  <p>
-    🌱 I’m currently learning <b>Spring Boot And Swift</b>
-    <br>
-    My insurance API that I developed with Dotnet <a href="https://github.com/ATalhaTimur/insurance-app">insurance-app</a>
-    <br>
-    How about looking at my FPGA based processor project? <a href="https://github.com/ATalhaTimur/Micro_CSE4117">Micro_CSE4117</a>
-    <br>
-    👨‍💻 All of my projects are available at <a href="https://github.com/ATalhaTimur?tab=repositories">my GitHub repositories</a>
-    <br>
-    📫 How to reach me <b>abdulkerimtalhatimur@gmail.com</b>
-  </p>
-</div>
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/abdulkerimtalhatimur/" target="_blank">

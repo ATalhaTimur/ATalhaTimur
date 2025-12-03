@@ -1,5 +1,7 @@
 <div align="center">
- 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ATalhaTimur&show_icons=true&locale=en&layout=compact" alt="atalhatimur" style="height: 195px; margin: 10px;" />
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=ATalhaTimur&show_icons=true&locale=en" alt="atalhatimur" style="height: 195px; margin: 10px;" />
 
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ATalhaTimur" alt="atalhatimur" style="height: 195px; margin: 10px;" />
 </div>

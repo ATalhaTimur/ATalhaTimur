@@ -1,15 +1,15 @@
 <div align="center">
 
-  <h2>Hi, I'm Talha 👋</h2>
+  <h2>Hi, I'm Timur </h2>
   <p>Backend / Full-Stack Software Engineer</p>
 
 </div>
 
 <div align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=atalhatimur" 
-    alt="atalhatimur streak stats"
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=ATalhaTimur&show_icons=true&hide_border=true"
     height="180"
+    alt="GitHub stats"
   />
 </div>
 

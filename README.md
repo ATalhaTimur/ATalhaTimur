@@ -38,3 +38,14 @@ Experienced with PostgreSQL and SQL Server on the data layer, React on the front
     Perfection is not attainable, but if we chase perfection, we can catch excellence.
   </sub>
 </p>
+
+---
+
+## 3D Contributions
+
+<p align="center">
+	<a href="./profile-3d-contrib/profile-night-green.svg">
+		<img width="900em" src="./profile-3d-contrib/profile-night-green.svg">
+	</a>
+</p>
+

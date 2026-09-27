@@ -12,6 +12,18 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
+<p align="center">
+  <img width="450em" src="https://github-readme-stats.vercel.app/api?username=ATalhaTimur&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" />
+</p>
+
+<p align="center">
+  <img width="450em" src="https://streak-stats.demolab.com/?user=ATalhaTimur&hide_border=true&theme=dark" />
+</p>
+
+<p align="center">
+  <img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ATalhaTimur&layout=compact&custom_title=Most%20used%20languages&langs_count=10&include_all_commits=true&hide_progress=false&hide_border=true&theme=dark" />
+</p>
+
 ---
 
 ### About
@@ -48,4 +60,3 @@ Experienced with PostgreSQL and SQL Server on the data layer, React on the front
 		<img width="900em" src="./profile-3d-contrib/profile-night-green.svg">
 	</a>
 </p>
-
